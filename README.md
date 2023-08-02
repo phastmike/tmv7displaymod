@@ -1,4 +1,4 @@
-# Kenwwod TM-V7 Display Mod
+# Kenwood TM-V7 Display Mod
 
 ![3D PCB](exports/tmv7_displaymod_front.png)
 
