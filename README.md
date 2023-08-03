@@ -2,7 +2,7 @@
 
 ![3D PCB](exports/tmv7_displaymod_front.png)
 
-This repository contains the PCB design for a solution, to the "failing LCD display problem", by [OE9MKV](https://www.kinzi.net/node/16).
+This repository contains a PCB design for a solution, to the "failing LCD display problem", by [OE9MKV](https://www.kinzi.net/node/16).
 The implementation is based on reverse engineering some parts of the proprietary serial protocol from Kenwood.
 
 The project uses KiCad 7 and the exported outputs are on the exports folder.
