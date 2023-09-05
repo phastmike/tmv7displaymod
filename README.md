@@ -7,7 +7,7 @@ The implementation is based on reverse engineering some parts of the proprietary
 
 The project uses KiCad 7 and the exported outputs are on the exports folder.
 
-Includes schematic and PCB but should refer to [OE9MKV](https://www.kinzi.net/node/16) and [PD2RLD](http://pd2rld.nl/) webpages for more
+Includes schematic and PCB but you should refer to [OE9MKV](https://www.kinzi.net/node/16) and [PD2RLD](http://pd2rld.nl/) webpages for more
 details, schematic, firmware, code and so on.
 
 Thanks to both and in particular to [OE9MKV](https://www.kinzi.net/node/16) for all the effort in the development an implementation of a solution.
@@ -16,7 +16,7 @@ Thanks to both and in particular to [OE9MKV](https://www.kinzi.net/node/16) for 
 
 ## Generated outputs
 
----------------> [Check the Exports folder](exports/) <-----------------
+- [Check the Exports folder](exports/)
 
 ## Links
 
