@@ -6,8 +6,8 @@
 
   (title_block
     (title "Kenwood TM-V7 Display Mod")
-    (date "2023-08-22")
-    (rev "1.2")
+    (date "2023-09-11")
+    (rev "1.3")
     (company "#pragma | CT1ENQ")
     (comment 1 "Schematic and PCB")
     (comment 2 "Original schematic by OE9MKV ")
