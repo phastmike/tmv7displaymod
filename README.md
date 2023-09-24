@@ -1,6 +1,6 @@
 # Kenwood TM-V7 Display Mod
 
-![3D PCB](exports/1.2/tmv7displaymod-3d-top.png)
+![3D PCB](exports/1.3/tmv7displaymod-3d-top.png)
 
 This repository contains a PCB design for a solution, to the "failing LCD display problem", by [OE9MKV](https://www.kinzi.net/node/16).
 The implementation is based on reverse engineering some parts of the proprietary serial protocol from Kenwood.
@@ -12,7 +12,7 @@ details, schematic, firmware, code and so on.
 
 Thanks to both and in particular to [OE9MKV](https://www.kinzi.net/node/16) for all the effort in the development an implementation of a solution.
 
-![3D PCB](exports/1.2/tmv7displaymod-3d-bottom.png)
+![3D PCB](exports/1.3/tmv7displaymod-3d-bottom.png)
 
 ## Generated outputs
 
